@@ -8,7 +8,7 @@ import json
 from datetime import datetime
 
 # Configuration
-API_KEY = "YOUR API KEY"
+API_KEY = "YOUR API KEY INSERT HERE"
 s = datetime.now()
 
 
