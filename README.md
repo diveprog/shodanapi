@@ -1,8 +1,3 @@
-![image](https://user-images.githubusercontent.com/95019755/149070572-20bf5537-a785-4eb0-9c6c-72ba31d465ca.png)
-
-
-----------------------------------------------------------------------------------------
-
 # Bismillahirrahmanirrahim.
 
 shodanapi.py merupakan program yang dibuat untuk melakukan scanning subdomain agar mempermudah 
@@ -79,6 +74,8 @@ root
 ![image](https://user-images.githubusercontent.com/95019755/149068147-e79cee7a-f738-4bf4-aa06-038cf7634c48.png)
 
 masukkan nama domain tanpa menggunakan 'http' atau 'https' cth: domain.com
+
+![image](https://user-images.githubusercontent.com/95019755/149070572-20bf5537-a785-4eb0-9c6c-72ba31d465ca.png)
 
 ----------------------------------------------------------------------------------------
 
