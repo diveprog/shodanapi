@@ -73,7 +73,7 @@ root
 
 ![image](https://user-images.githubusercontent.com/95019755/149068147-e79cee7a-f738-4bf4-aa06-038cf7634c48.png)
 
-masukkan nama domain tanpa menggunakan 'http' atau 'https' cth: midtrans.com
+masukkan nama domain tanpa menggunakan 'http' atau 'https' cth: domain.com
 
 ----------------------------------------------------------------------------------------
 
