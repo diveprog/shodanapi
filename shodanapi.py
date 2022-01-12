@@ -14,7 +14,7 @@ s = datetime.now()
 
 # Input validation
 if len(sys.argv) == 1:
-        print('Usage: %s <masukan domain>' % sys.argv[0])
+        print('Usage: %s <Insert your domain>' % sys.argv[0])
         sys.exit(1)
 print("Starting scan at :",s)
 print("*"*50)
